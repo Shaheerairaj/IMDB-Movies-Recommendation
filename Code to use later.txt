@@ -1,0 +1,53 @@
+# To use later
+
+##################################################################################
+
+
+#Title Dictionary
+# col_names_title = title.columns
+# desc_title = ['Unique identifier of the movie title','Ordering','Unique identifier of the name of the actor','A general category of their role in the movie','Other jobs',
+# 'Characters they have played in the movie specified']
+
+# dict_title = {
+#     'Column Name' : col_names_title,
+#     'Descriptions' : desc_title
+# }
+
+# idx = range(0,len(col_names_title))
+# dict_title = pd.DataFrame(dict_title, index=idx)
+# dict_title
+
+
+##################################################################################
+
+#Names Dictionary
+# col_names = names.columns
+# desc_names = ['Unique identifier of the person in question','Name of person','Birth name','Height in Centi-Meters','Short biography','Birth details','Date of birth','Place of birth',' Death details',
+# 'Date of death','Place of death','Reason of death','Details of all spouses','Number of spouses','Number of divorces','Number of spouses with children','Number of children']
+
+# dict_names = {
+#     'Column Names' : col_names,
+#     'Description' : desc_names
+# }
+
+# idx = range(0,len(col_names))
+# dict_names = pd.DataFrame(dict_names, index=idx)
+# dict_names
+
+##################################################################################
+
+#Ratings Dictionary
+# col_names_ratings = ratings.columns
+# desc_ratings = ['Unique identifier of the title of the movie','IMDBs calculation of their weighted average vote','Total votes received','Mean of votes','Median of votes','Rating received by US voters',
+# 'Number of votes received by US voters','Rating received by non-US voters','Number of votes received by non-US voters']
+
+# dict_ratings = {
+#     'Column Names' : col_names_ratings,
+#     'Description' : desc_ratings
+# }
+
+# idx = range(0,len(col_names_ratings))
+# dict_ratings = pd.DataFrame(dict_ratings, index=idx)
+# dict_ratings
+
+##################################################################################
