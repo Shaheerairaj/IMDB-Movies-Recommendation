@@ -1,0 +1,9 @@
+Extend literature review
+Add final paragraph in literature review stating your findings (summarize your learning),
+how different your approach is from the rest.
+Get template from Zainab Dr. Sanjay Template
+Focus on modelling
+20 days
+Any method used in data quality, modelling, preprocessing, explain them all
+Explain metrics used to evaluate the model
+Move on to modelling
